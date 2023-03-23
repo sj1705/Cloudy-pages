@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cloudypages-dev-235454-authRole",
+      "UnauthRoleArn": "arn:aws:iam::576773708837:role/amplify-cloudypages-dev-235454-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::576773708837:role/amplify-cloudypages-dev-235454-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-cloudypages-dev-235454-deployment",
+      "UnauthRoleName": "amplify-cloudypages-dev-235454-unauthRole",
+      "StackName": "amplify-cloudypages-dev-235454",
+      "StackId": "arn:aws:cloudformation:us-west-2:576773708837:stack/amplify-cloudypages-dev-235454/0546fb20-c9a8-11ed-b38b-02ee49aa1423",
+      "AmplifyAppId": "d3d0g0c41zsk7f"
+    },
+    "categories": {
+      "auth": {
+        "cloudypagesf275a532": {}
+      }
+    }
+  }
+}
