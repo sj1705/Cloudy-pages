@@ -65,7 +65,7 @@ export default function Home() {
                 {post.title}
               </h2>
               <p className='text-gray-500 mt-2'>Author: {post.username}</p>
-              {post.comments.items.length > 0 &&
+              {post.comments.items > 0 &&
                 post.comments.items.map((comment, index) => (
                   <div
                     key={index}

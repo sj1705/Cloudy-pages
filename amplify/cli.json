@@ -11,13 +11,7 @@
       "transformerversion": 2,
       "suppressschemamigrationprompt": true,
       "securityenhancementnotification": false,
-      "showfieldauthnotification": false,
-      "usesubusernamefordefaultidentityclaim": true,
-      "usefieldnameforprimarykeyconnectionfield": false,
-      "enableautoindexquerynames": true,
-      "respectprimarykeyattributesonconnectionfield": true,
-      "shoulddeepmergedirectiveconfigdefaults": false,
-      "populateownerfieldforstaticgroupauth": true
+      "showfieldauthnotification": false
     },
     "frontend-ios": {
       "enablexcodeintegration": true
@@ -39,8 +33,7 @@
       "handlelistnullabilitytransparently": true,
       "emitauthprovider": true,
       "generateindexrules": true,
-      "enabledartnullsafety": true,
-      "generatemodelsforlazyloadandcustomselectionset": false
+      "enabledartnullsafety": true
     },
     "appsync": {
       "generategraphqlpermissions": true
@@ -58,6 +51,6 @@
     }
   },
   "debug": {
-    "shareProjectConfig": true
+    "shareProjectConfig": false
   }
 }
